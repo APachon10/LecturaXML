@@ -1,0 +1,25 @@
+<Animes>
+		<Anime>
+				<id>1</id>
+				<name>Unlimited Blade Works</name>
+				<num_chapters>24</num_chapters>
+		</Anime>
+		
+		<Anime>
+				<id>2</id>
+				<name>Naruto</name>
+				<num_chapters>220</num_chapters>
+		</Anime>
+		
+		<Anime>
+				<id>3</id>
+				<name>Bleach</name>
+				<num_chapters>345</num_chapters>
+		</Anime>
+		
+		<Anime>
+				<id>4</id>
+				<name>Dragon Ball Z</name>
+				<num_chapters>200</num_chapters>
+		</Anime>
+</Animes>
